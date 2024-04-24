@@ -1,0 +1,32 @@
+Tìm đường đi với độ dài ngắn nhất:
+a   b
+Số đỉnh:
+10
+Đỉnh    Đánh giá
+a       20 
+c       15
+d       6
+e       8
+f	    7
+h	    10
+k	    2
+i	    4
+g	    12
+b	    0
+Cha 	Con 	Khoang cach
+a       c       9
+a       d       7
+a       e       13
+a		f	    20
+c		h	    6
+d		h	    8
+d		e	    4
+e		k	    4
+e		i	    3
+f		i	    6
+f		g	    4
+h		k	    5
+k		b	    6
+i		k	    9
+i		b	    5
+
